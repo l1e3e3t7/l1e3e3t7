@@ -2,6 +2,7 @@
 
 ## I'm 
 - 🌱 I’m currently learning something new every day and i'm mostly interested in [Svelte](https://kit.svelte.dev/) at the moment. It is just superior to Angular and React.
+- 📫 How to reach me: You were able to find this page, you will surely find my contact details somewhere
 - 🥅 2021 Goals: Survive!
 
 ### Languages & Tools
@@ -32,6 +33,9 @@
 
 <img align="left" alt="Bots" width="26px" src="https://raw.githubusercontent.com/github/explore/0a84ca418425da147e4e43b1c74aa169d3265870/topics/bot/bot.png" />
 
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1e3e3t7)](https://github.com/anuraghazra/github-readme-stats)
 
 
       
