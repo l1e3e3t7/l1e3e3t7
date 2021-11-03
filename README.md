@@ -1,11 +1,11 @@
 ### Hi there, i'm l1e3e3t7 - aka leet 👋
 
-## I'm 
+## About me 
 - 🌱 I’m currently learning something new every day and i'm mostly interested in [Svelte](https://kit.svelte.dev/) at the moment. It is just superior to Angular and React.
 - 📫 How to reach me: You were able to find this page, you will surely find my contact details somewhere
 - 🥅 2021 Goals: Survive!
 
-### Languages & Tools
+### Languages & Tools 
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
@@ -33,8 +33,8 @@
 
 <img align="left" alt="Bots" width="26px" src="https://raw.githubusercontent.com/github/explore/0a84ca418425da147e4e43b1c74aa169d3265870/topics/bot/bot.png" />
 
-<br /><br />
-### Stats
+<br />
+### Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1e3e3t7)](https://github.com/anuraghazra/github-readme-stats)
 
