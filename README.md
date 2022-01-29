@@ -3,7 +3,8 @@
 ## About me 
 - 🌱 I’m currently learning something new every day and i'm mostly interested in [Svelte](https://kit.svelte.dev/) at the moment. It is just superior to Angular and React.
 - 📫 How to reach me: You were able to find this page, you will surely find my contact details somewhere
-- 🥅 2021 Goals: Survive!
+- 🥅 2021 Goals: Survive! - cool i survived 💪
+- 🥅 2022 Goals: Stay positive, be better at everything. And survive!
 
 ### Languages & Tools 
 
